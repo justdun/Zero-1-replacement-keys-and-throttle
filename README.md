@@ -1,5 +1,7 @@
 # Zero-1-replacement-keys-and-throttle
 
+![Zero 1 Keys and Throttle](Photos/Zero_1_keys_throttle.jpg)
+
 Please find the STL files for my replacement Hornby Zero 1 prototype throttle and low profile keys here!
 
 Includes:
